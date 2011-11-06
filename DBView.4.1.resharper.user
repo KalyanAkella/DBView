@@ -1,0 +1,1452 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Config/f:ConnectionCollection.cs" caret="76" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Dialogs/d:DBDialogs/f:IDBDialog.cs" caret="139" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Config/f:ConnectionElement.cs" caret="848" scrollPosition="0|9" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Dialogs/f:ConnectDialog.cs" caret="4386" scrollPosition="0|93" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Dialogs/d:DBDialogs/f:OracleDBDialog.cs" caret="2868" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Dialogs/d:DBDialogs/f:MySQLDBDialog.cs" caret="129" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Dialogs/d:DBDialogs/f:SqlServerDBDialog.cs" caret="406" scrollPosition="0|0" />
+      <File id="F98DE3E8-46B4-4F2C-8582-A9031A9BF741/f:MySqlConnectionTest.cs" caret="262" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:TableNode.cs" caret="2406" scrollPosition="0|46" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryTabPage.cs" caret="457" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:ViewNode.cs" caret="1315" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Main/f:DBViewMainForm.cs" caret="1134" scrollPosition="0|23" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryTabPage.Designer.cs" caret="6635" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:MySqlProvider.cs" caret="3893" scrollPosition="0|90" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:OracleProvider.cs" caret="3476" scrollPosition="0|71" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:ContextMenuItem.cs" caret="3061" scrollPosition="0|67" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:SqlServerProvider.cs" caret="4881" scrollPosition="0|110" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:GenericDBProvider.cs" caret="5736" scrollPosition="0|123" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:ProcedureNode.cs" caret="0" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="2239" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:ConnectionsNode.cs" caret="126" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:IDBViewProvider.cs" caret="911" scrollPosition="0|2" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DTO/f:ConnectionDetail.cs" caret="197" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:ConnectionNode.cs" caret="535" scrollPosition="0|5" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:FindPanel.Designer.cs" caret="1145" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:FindTextBox.cs" caret="480" scrollPosition="0|10" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryBoxControl.Designer.cs" caret="2732" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryBoxControl.cs" caret="804" scrollPosition="0|9" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/f:DBUtil.cs" caret="253" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/f:DBTreeView.cs" caret="242" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Main/f:DBViewMainForm.cs" caret="42" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryTabPage.Designer.cs" caret="4082" scrollPosition="0|75" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryBoxControl.Designer.cs" caret="1973" scrollPosition="0|39" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryBoxControl.Designer.cs" caret="2432" scrollPosition="0|39" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:OracleProvider.cs" caret="207" scrollPosition="0|69" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:OracleProvider.cs" caret="207" scrollPosition="0|71" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:SqlServerProvider.cs" caret="4019" scrollPosition="0|87" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:OracleProvider.cs" caret="207" scrollPosition="0|70" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:OracleProvider.cs" caret="3538" scrollPosition="0|91" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:ContextMenuItem.cs" caret="3092" scrollPosition="0|64" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="688" scrollPosition="0|46" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:ContextMenuItem.cs" caret="3460" scrollPosition="0|65" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:ContextMenuItem.cs" caret="3429" scrollPosition="0|71" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:ContextMenuItem.cs" caret="3061" scrollPosition="0|61" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="688" scrollPosition="0|46" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="688" scrollPosition="0|48" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="688" scrollPosition="0|55" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="688" scrollPosition="0|66" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:GenericDBProvider.cs" caret="5736" scrollPosition="0|123" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:SqlServerProvider.cs" caret="4881" scrollPosition="0|110" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:DB/d:Provider/f:GenericDBProvider.cs" caret="6021" scrollPosition="0|131" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="688" scrollPosition="0|69" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="3350" scrollPosition="0|69" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="2625" scrollPosition="0|67" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:PackageNode.cs" caret="2171" scrollPosition="0|51" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:ProcedureNode.cs" caret="299" scrollPosition="0|3" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/d:Tree/d:Node/f:ProcedureNode.cs" caret="13" scrollPosition="0|0" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryBoxControl.cs" caret="2188" scrollPosition="0|38" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:QueryBoxControl.cs" caret="6312" scrollPosition="0|131" />
+      <File id="E86BE00C-12C7-4265-B97B-1A0FE6DD9822/d:Controls/f:FindTextBox.cs" caret="480" scrollPosition="0|10" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="connectMenuItem" priority="4" />
+      <Item value="CommonDialog" priority="0" />
+      <Item value="string" priority="82" />
+      <Item value="connectDialog" priority="2" />
+      <Item value="ConnectionDetail" priority="21" />
+      <Item value="new" priority="109" />
+      <Item value="cdServerNameTextBox" priority="6" />
+      <Item value="connectionDetail" priority="29" />
+      <Item value="true" priority="33" />
+      <Item value="cdUserNameTextBox" priority="8" />
+      <Item value="cdPasswordTextBox" priority="10" />
+      <Item value="if" priority="151" />
+      <Item value="dialogResult" priority="1" />
+      <Item value="DialogResult.OK" priority="6" />
+      <Item value="cdOkButton" priority="0" />
+      <Item value="OracleConnectionStringBuilder" priority="0" />
+      <Item value="builder" priority="4" />
+      <Item value="OracleConnection" priority="0" />
+      <Item value="oracleConnection" priority="3" />
+      <Item value="oracleCommand" priority="2" />
+      <Item value="allTabsQuery" priority="1" />
+      <Item value="try" priority="1" />
+      <Item value="while" priority="12" />
+      <Item value="reader" priority="10" />
+      <Item value="dbViewTreeView" priority="19" />
+      <Item value="TreeNode" priority="32" />
+      <Item value="tableNode" priority="8" />
+      <Item value="catch" priority="2" />
+      <Item value="MessageBox" priority="5" />
+      <Item value="Exception" priority="2" />
+      <Item value="e" priority="132" />
+      <Item value="MessageBoxButtons.OK" priority="4" />
+      <Item value="MessageBoxIcon.Error" priority="3" />
+      <Item value="finally" priority="0" />
+      <Item value="parentNode" priority="13" />
+      <Item value="treeNode" priority="15" />
+      <Item value="allColumnsQuery" priority="2" />
+      <Item value="OracleCommand" priority="0" />
+      <Item value="OracleDataReader" priority="0" />
+      <Item value="null" priority="25" />
+      <Item value="Delegate" priority="0" />
+      <Item value="public" priority="40" />
+      <Item value="VoidDelegate" priority="0" />
+      <Item value="" priority="22" />
+      <Item value="forEveryRow" priority="0" />
+      <Item value="ExecuteQuery" priority="3" />
+      <Item value="return" priority="131" />
+      <Item value="DbConnection" priority="3" />
+      <Item value="Action" priority="1" />
+      <Item value="ConnectDialog" priority="0" />
+      <Item value="DbProvider" priority="2" />
+      <Item value="static" priority="5" />
+      <Item value="private" priority="35" />
+      <Item value="enum" priority="2" />
+      <Item value="DbType" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="OracleProvider" priority="0" />
+      <Item value="default" priority="4" />
+      <Item value="DbProviderFactory" priority="1" />
+      <Item value="DbViewProviderFactory" priority="1" />
+      <Item value="dbViewProvider" priority="31" />
+      <Item value="dbConnection" priority="13" />
+      <Item value="this" priority="56" />
+      <Item value="dbServers" priority="5" />
+      <Item value="DbViewDBType" priority="5" />
+      <Item value="type" priority="2" />
+      <Item value="is" priority="5" />
+      <Item value="Enum" priority="1" />
+      <Item value="typeof" priority="0" />
+      <Item value="foreach" priority="16" />
+      <Item value="DbUtil" priority="4" />
+      <Item value="dbNode" priority="21" />
+      <Item value="splitContainer1" priority="0" />
+      <Item value="DbDialogFactory" priority="0" />
+      <Item value="db" priority="1" />
+      <Item value="IDbDialog" priority="2" />
+      <Item value="cdConnectButton" priority="3" />
+      <Item value="DialogResult" priority="1" />
+      <Item value="dbDbDialog" priority="0" />
+      <Item value="dbDialog" priority="5" />
+      <Item value="cdDialogPanel" priority="5" />
+      <Item value="cdDataSourceTextBox" priority="2" />
+      <Item value="cdTestButton" priority="2" />
+      <Item value="false" priority="52" />
+      <Item value="else" priority="38" />
+      <Item value="dbTypeName" priority="0" />
+      <Item value="case" priority="0" />
+      <Item value="OracleDbDialog" priority="0" />
+      <Item value="AdvancedConnectDialog" priority="0" />
+      <Item value="dbViewDBType" priority="0" />
+      <Item value="ListViewInsertionMark" priority="3" />
+      <Item value="List" priority="13" />
+      <Item value="allTableNames" priority="3" />
+      <Item value="AllTablesQuery" priority="0" />
+      <Item value="AllColumnsQueryForGivenTable" priority="0" />
+      <Item value="tableName" priority="10" />
+      <Item value="RichTextBox" priority="1" />
+      <Item value="event" priority="7" />
+      <Item value="EventHandler" priority="6" />
+      <Item value="class" priority="5" />
+      <Item value="EventArgs" priority="4" />
+      <Item value="QueryEventArgs" priority="1" />
+      <Item value="Keys.F5" priority="0" />
+      <Item value="Lines" priority="7" />
+      <Item value="Length" priority="4" />
+      <Item value="dbViewQueryPage" priority="1" />
+      <Item value="connectMenuItem_Click" priority="0" />
+      <Item value="DataTable" priority="6" />
+      <Item value="dbCommand" priority="1" />
+      <Item value="DataSet" priority="0" />
+      <Item value="DataAdapter" priority="0" />
+      <Item value="dataAdapter" priority="0" />
+      <Item value="dataTable" priority="3" />
+      <Item value="LoadOption.OverwriteChanges" priority="0" />
+      <Item value="dbViewDataGrid" priority="0" />
+      <Item value="query" priority="1" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="DropDownStyle" priority="0" />
+      <Item value="ComboBoxStyle.DropDownList" priority="0" />
+      <Item value="AutoCompleteMode" priority="0" />
+      <Item value="AutoCompleteMode.SuggestAppend" priority="0" />
+      <Item value="AutoCompleteSource" priority="0" />
+      <Item value="AutoCompleteSource.CustomSource" priority="0" />
+      <Item value="AutoCompleteCustomSource" priority="0" />
+      <Item value="AutoCompleteStringCollection" priority="0" />
+      <Item value="collection" priority="2" />
+      <Item value="autoCompleteDropDown" priority="7" />
+      <Item value="void" priority="12" />
+      <Item value="RetreiveAllTableNames" priority="2" />
+      <Item value="DataSource" priority="2" />
+      <Item value="Items" priority="2" />
+      <Item value="autoCompleteStrings" priority="1" />
+      <Item value="AutoCompleteMode.None" priority="0" />
+      <Item value="SelectionMode.One" priority="0" />
+      <Item value="BeginUpdate" priority="1" />
+      <Item value="EndUpdate" priority="1" />
+      <Item value="autoCompleteListBox" priority="9" />
+      <Item value="tableNames" priority="4" />
+      <Item value="HashSet" priority="1" />
+      <Item value="int" priority="21" />
+      <Item value="index" priority="9" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="3" />
+      <Item value="tableSet" priority="3" />
+      <Item value="Keys" priority="20" />
+      <Item value="text" priority="4" />
+      <Item value="char" priority="4" />
+      <Item value="Regex" priority="1" />
+      <Item value="currentWord" priority="7" />
+      <Item value="tables" priority="8" />
+      <Item value="strings" priority="0" />
+      <Item value="table" priority="2" />
+      <Item value="var" priority="26" />
+      <Item value="_tables" priority="1" />
+      <Item value="_tableNames" priority="7" />
+      <Item value="Font" priority="0" />
+      <Item value="GetPositionFromCharIndex" priority="1" />
+      <Item value="DllImport" priority="0" />
+      <Item value="extern" priority="0" />
+      <Item value="IntPtr" priority="0" />
+      <Item value="ref" priority="0" />
+      <Item value="Point" priority="2" />
+      <Item value="Point.Empty" priority="0" />
+      <Item value="GetCaretPos" priority="0" />
+      <Item value="point" priority="3" />
+      <Item value="position" priority="1" />
+      <Item value="FontHeight" priority="0" />
+      <Item value="Text" priority="53" />
+      <Item value="maxSize" priority="6" />
+      <Item value="Math" priority="1" />
+      <Item value="font" priority="0" />
+      <Item value="Keys.Escape" priority="2" />
+      <Item value="Controls" priority="4" />
+      <Item value="internal" priority="1" />
+      <Item value="NodeType" priority="27" />
+      <Item value="nodeName" priority="0" />
+      <Item value="TabPage" priority="3" />
+      <Item value="QueryBoxControl" priority="3" />
+      <Item value="newSplitContainer" priority="0" />
+      <Item value="newQueryBoxControl" priority="0" />
+      <Item value="DataGridView" priority="1" />
+      <Item value="newDataGridView" priority="0" />
+      <Item value="newQueryPage" priority="2" />
+      <Item value="queryPages" priority="0" />
+      <Item value="Control" priority="0" />
+      <Item value="sender" priority="3" />
+      <Item value="queryBoxControl" priority="8" />
+      <Item value="SplitContainer" priority="0" />
+      <Item value="queryTabPage" priority="7" />
+      <Item value="QueryTabPage" priority="3" />
+      <Item value="queryTabs" priority="2" />
+      <Item value="OnFormClosed" priority="0" />
+      <Item value="IDisposable" priority="0" />
+      <Item value="AutoCompleteDropDown" priority="0" />
+      <Item value="size" priority="0" />
+      <Item value="AUTO_COMPLETE" priority="0" />
+      <Item value="Hide" priority="3" />
+      <Item value="SelectedIndex" priority="4" />
+      <Item value="SelectionMode" priority="0" />
+      <Item value="GetFirstCharIndexOfCurrentLine" priority="1" />
+      <Item value="StringBuilder" priority="3" />
+      <Item value="charIndex" priority="6" />
+      <Item value="Environment" priority="2" />
+      <Item value="buffer" priority="6" />
+      <Item value="currentLine" priority="2" />
+      <Item value="currentLineSize" priority="0" />
+      <Item value="charIndexOfCurrentLine" priority="0" />
+      <Item value="Tag" priority="28" />
+      <Item value="databasesNode" priority="1" />
+      <Item value="pkgsNode" priority="3" />
+      <Item value="packageName" priority="2" />
+      <Item value="pkgNode" priority="2" />
+      <Item value="pkgName" priority="0" />
+      <Item value="activeTab" priority="0" />
+      <Item value="queryPage" priority="13" />
+      <Item value="procName" priority="0" />
+      <Item value="CultureInfo.CurrentCulture" priority="0" />
+      <Item value="DBTreeView" priority="5" />
+      <Item value="TopNode" priority="3" />
+      <Item value="viewsNode" priority="3" />
+      <Item value="AllViewNames" priority="0" />
+      <Item value="allViewNames" priority="2" />
+      <Item value="tablesNode" priority="2" />
+      <Item value="columnsNode" priority="0" />
+      <Item value="keysNode" priority="0" />
+      <Item value="contraintsNode" priority="0" />
+      <Item value="triggersNode" priority="0" />
+      <Item value="indexsNode" priority="0" />
+      <Item value="node" priority="15" />
+      <Item value="Panel" priority="0" />
+      <Item value="LocationChanged" priority="0" />
+      <Item value="Show" priority="0" />
+      <Item value="delegate" priority="10" />
+      <Item value="Find" priority="4" />
+      <Item value="findBox" priority="4" />
+      <Item value="FindTextBox" priority="3" />
+      <Item value="FindClose" priority="0" />
+      <Item value="FindEventArgs" priority="1" />
+      <Item value="FindNext" priority="3" />
+      <Item value="Keys.Enter" priority="0" />
+      <Item value="Focus" priority="1" />
+      <Item value="base" priority="16" />
+      <Item value="FindPanel" priority="1" />
+      <Item value="dbViewSplitContainer" priority="4" />
+      <Item value="findPanel" priority="23" />
+      <Item value="bounds" priority="3" />
+      <Item value="Size" priority="3" />
+      <Item value="FindBox" priority="0" />
+      <Item value="dbTreeView" priority="2" />
+      <Item value="nodes" priority="2" />
+      <Item value="term" priority="2" />
+      <Item value="Color" priority="3" />
+      <Item value="Color.Yellow" priority="1" />
+      <Item value="HighlightNode" priority="0" />
+      <Item value="topNode" priority="3" />
+      <Item value="SearchNode" priority="0" />
+      <Item value="currentString" priority="0" />
+      <Item value="DefaultBackColor" priority="0" />
+      <Item value="defaultBackColor" priority="0" />
+      <Item value="bool" priority="9" />
+      <Item value="ensureVisible" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="StringComparison.CurrentCultureIgnoreCase" priority="0" />
+      <Item value="fromIndex" priority="6" />
+      <Item value="SelectionStart" priority="5" />
+      <Item value="SelectionLength" priority="2" />
+      <Item value="from" priority="0" />
+      <Item value="TestFixture" priority="1" />
+      <Item value="Assert" priority="6" />
+      <Item value="SelectionBullet" priority="0" />
+      <Item value="Keys.Tab" priority="1" />
+      <Item value="Keys.F" priority="0" />
+      <Item value="TreeViewFindDialog" priority="1" />
+      <Item value="treeViewFindDialog" priority="2" />
+      <Item value="FindDetails" priority="8" />
+      <Item value="findTextBox" priority="13" />
+      <Item value="findDetails" priority="27" />
+      <Item value="tablesCheckBox" priority="4" />
+      <Item value="pkgsCheckBox" priority="3" />
+      <Item value="viewsCheckBox" priority="3" />
+      <Item value="SelectedNode" priority="2" />
+      <Item value="selectedNode" priority="3" />
+      <Item value="Search" priority="1" />
+      <Item value="findNextButton" priority="2" />
+      <Item value="EnableDisableFindButton" priority="0" />
+      <Item value="rootNode" priority="4" />
+      <Item value="startNode" priority="3" />
+      <Item value="TreeNodeCollection" priority="0" />
+      <Item value="treeNodeCollection" priority="0" />
+      <Item value="tnode" priority="0" />
+      <Item value="tableNameNode" priority="4" />
+      <Item value="Form" priority="0" />
+      <Item value="Location" priority="2" />
+      <Item value="location" priority="3" />
+      <Item value="ParentForm" priority="0" />
+      <Item value="MessageBoxIcon.Asterisk" priority="0" />
+      <Item value="nodeFound" priority="31" />
+      <Item value="break" priority="5" />
+      <Item value="IsNodeFound" priority="0" />
+      <Item value="matchCaseCheckBox" priority="0" />
+      <Item value="nodeText" priority="1" />
+      <Item value="findStr" priority="1" />
+      <Item value="WindowState" priority="0" />
+      <Item value="FormWindowState.Maximized" priority="0" />
+      <Item value="CheckState.Checked" priority="3" />
+      <Item value="recentFindDetails" priority="2" />
+      <Item value="currentNode" priority="56" />
+      <Item value="NodeType.COLUMN_NODE" priority="1" />
+      <Item value="IList" priority="3" />
+      <Item value="NodeType.CONSTRAINT_NODE" priority="0" />
+      <Item value="NodeType.INDEX_NODE" priority="0" />
+      <Item value="NodeType.KEY_COLUMN_NODE" priority="0" />
+      <Item value="NodeType.TRIGGER_NODE" priority="0" />
+      <Item value="tag" priority="2" />
+      <Item value="NodeType.TABLE_COLUMNS_NODE" priority="0" />
+      <Item value="NodeType.TABLE_CONSTRAINTS_NODE" priority="0" />
+      <Item value="NodeType.TABLE_INDEXES_NODE" priority="0" />
+      <Item value="NodeType.TABLE_KEYS_NODE" priority="0" />
+      <Item value="NodeType.TABLE_TRIGGERS_NODE" priority="0" />
+      <Item value="NodeType.PROC_NODE" priority="0" />
+      <Item value="ArrayList" priority="1" />
+      <Item value="list" priority="0" />
+      <Item value="indexOfCurrentNode" priority="0" />
+      <Item value="nextNodes" priority="1" />
+      <Item value="allSiblings" priority="0" />
+      <Item value="SearchNodes" priority="0" />
+      <Item value="allNextNodes" priority="2" />
+      <Item value="IsChildNodeFound" priority="0" />
+      <Item value="SearchNodesInDBNode" priority="0" />
+      <Item value="SearchDBNodes" priority="0" />
+      <Item value="DoesNodeMatch" priority="0" />
+      <Item value="supportedDatabasesNode" priority="0" />
+      <Item value="prevNodes" priority="0" />
+      <Item value="as" priority="3" />
+      <Item value="nodeType" priority="4" />
+      <Item value="GetNodeType" priority="0" />
+      <Item value="BindData" priority="5" />
+      <Item value="DataSourceUpdateMode.OnPropertyChanged" priority="5" />
+      <Item value="nextNode" priority="2" />
+      <Item value="Nodes" priority="11" />
+      <Item value="ISearchableTreeNode" priority="5" />
+      <Item value="searchableTreeNode" priority="3" />
+      <Item value="DatabasesNode" priority="1" />
+      <Item value="DatabaseNode" priority="4" />
+      <Item value="databaseNode" priority="3" />
+      <Item value="DatabaseContentNode" priority="1" />
+      <Item value="TreeView" priority="9" />
+      <Item value="treeView" priority="2" />
+      <Item value="FindViews" priority="4" />
+      <Item value="FindPkgs" priority="3" />
+      <Item value="FindTables" priority="4" />
+      <Item value="NextNode" priority="0" />
+      <Item value="SerializableAttribute" priority="0" />
+      <Item value="test" priority="3" />
+      <Item value="BuildDatabasesNode" priority="0" />
+      <Item value="DataNode" priority="0" />
+      <Item value="NodeType.TABLE_NODE" priority="0" />
+      <Item value="TableDetailNode" priority="1" />
+      <Item value="ConstructNode" priority="0" />
+      <Item value="dataDetailNode" priority="2" />
+      <Item value="MatchWholeString" priority="0" />
+      <Item value="MatchCase" priority="0" />
+      <Item value="NodeType.DB_NODE" priority="0" />
+      <Item value="serverName" priority="1" />
+      <Item value="TablesNode" priority="0" />
+      <Item value="ColumnsNode" priority="0" />
+      <Item value="KeysNode" priority="0" />
+      <Item value="ConstraintsNode" priority="0" />
+      <Item value="TriggersNode" priority="0" />
+      <Item value="IndexesNode" priority="0" />
+      <Item value="PackagesNode" priority="0" />
+      <Item value="PackageNode" priority="0" />
+      <Item value="ViewsNode" priority="0" />
+      <Item value="ViewNode" priority="0" />
+      <Item value="viewName" priority="1" />
+      <Item value="IDBNode" priority="33" />
+      <Item value="TextBoxRenderer" priority="0" />
+      <Item value="ColumnNode" priority="1" />
+      <Item value="childNodeName" priority="0" />
+      <Item value="Node" priority="0" />
+      <Item value="AbstractDBNode" priority="19" />
+      <Item value="nodesListInReverse" priority="1" />
+      <Item value="NodesInReverse" priority="2" />
+      <Item value="message" priority="3" />
+      <Item value="tryf" priority="0" />
+      <Item value="DBUtil" priority="6" />
+      <Item value="statusStrip1" priority="0" />
+      <Item value="cdConnectStatusLabel" priority="0" />
+      <Item value="emptyTreeNode" priority="4" />
+      <Item value="DBView" priority="1" />
+      <Item value="Properties" priority="1" />
+      <Item value="Resources" priority="1" />
+      <Item value="ajax_loader" priority="1" />
+      <Item value="ImageLayout" priority="0" />
+      <Item value="ImageList" priority="1" />
+      <Item value="BackgroundWorker" priority="2" />
+      <Item value="worker" priority="2" />
+      <Item value="IDBViewProvider" priority="7" />
+      <Item value="SingleArgumentQuery" priority="0" />
+      <Item value="GetColumnNamesForGivenTable" priority="0" />
+      <Item value="singleArgumentQuery" priority="1" />
+      <Item value="ImageIndex" priority="0" />
+      <Item value="COLUMNS" priority="1" />
+      <Item value="COLUMNS_EXPANDING" priority="0" />
+      <Item value="backgroundWorker" priority="8" />
+      <Item value="ResultsDTO" priority="2" />
+      <Item value="NODE_EXPANDING" priority="0" />
+      <Item value="NODE_NORMAL" priority="1" />
+      <Item value="exception" priority="2" />
+      <Item value="childNodeNames" priority="6" />
+      <Item value="abstract" priority="0" />
+      <Item value="InitBackgroundWorker" priority="0" />
+      <Item value="WorkerReportsProgress" priority="0" />
+      <Item value="WorkCompleted" priority="0" />
+      <Item value="resultsDTO" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="FinishExpand" priority="0" />
+      <Item value="next" priority="0" />
+      <Item value="TextBox" priority="0" />
+      <Item value="dialog" priority="3" />
+      <Item value="IDBDialog" priority="1" />
+      <Item value="SetEnabledFlagForConnectTestButtons" priority="0" />
+      <Item value="dbProvider" priority="0" />
+      <Item value="MySQLDBDialog" priority="0" />
+      <Item value="mySqlProvider" priority="0" />
+      <Item value="Database" priority="2" />
+      <Item value="cdDatabaseTextBox" priority="2" />
+      <Item value="treeViewContextMenu" priority="3" />
+      <Item value="MouseButtons.Right" priority="2" />
+      <Item value="recentConnection" priority="2" />
+      <Item value="connNode" priority="1" />
+      <Item value="recentConnections" priority="0" />
+      <Item value="ConfigurationManager" priority="0" />
+      <Item value="ConfigurationUserLevel.None" priority="0" />
+      <Item value="configuration" priority="0" />
+      <Item value="connectionSection" priority="1" />
+      <Item value="ConfigurationSection" priority="0" />
+      <Item value="ConnName" priority="0" />
+      <Item value="DataSourceName" priority="0" />
+      <Item value="Username" priority="0" />
+      <Item value="Password" priority="1" />
+      <Item value="connectionDetails" priority="1" />
+      <Item value="count" priority="8" />
+      <Item value="connection" priority="0" />
+      <Item value="ConnectionElement" priority="0" />
+      <Item value="connectionElement" priority="0" />
+      <Item value="connectionsSection" priority="0" />
+      <Item value="GetDBDialog" priority="0" />
+      <Item value="SelectedText" priority="0" />
+      <Item value="textFromFirstChar" priority="0" />
+      <Item value="Char" priority="0" />
+      <Item value="match" priority="2" />
+      <Item value="strUptoCursor" priority="0" />
+      <Item value="GetCaretXYPosition" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="Debug" priority="0" />
+      <Item value="Debugger" priority="0" />
+      <Item value="contextMenuStrip" priority="4" />
+      <Item value="contextMenuUpdated" priority="0" />
+      <Item value="PointToClient" priority="0" />
+      <Item value="GetNodeAt" priority="0" />
+      <Item value="TabControl" priority="2" />
+      <Item value="Tree" priority="0" />
+      <Item value="ShowQueryPage" priority="0" />
+      <Item value="TabAppearance.Buttons" priority="0" />
+      <Item value="recordsAffected" priority="0" />
+      <Item value="DBViewDataTable" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="dbViewDataTable" priority="4" />
+      <Item value="dbViewQueryPage_ExecuteQuery" priority="0" />
+      <Item value="queryStatusLabel" priority="0" />
+      <Item value="IsConnectionOpen" priority="1" />
+      <Item value="Application" priority="0" />
+      <Item value="ClientSize" priority="0" />
+      <Item value="Color.DarkGray" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="findPanelLayout" priority="1" />
+      <Item value="keyValue" priority="1" />
+      <Item value="recentFindIndex" priority="6" />
+      <Item value="RichTextBoxFinds.None" priority="1" />
+      <Item value="findIndex" priority="9" />
+      <Item value="SelectionBackColor" priority="1" />
+      <Item value="RichTextBoxFinds" priority="1" />
+      <Item value="ResetBackColor" priority="0" />
+      <Item value="findTerm" priority="3" />
+      <Item value="recentFindTerm" priority="3" />
+      <Item value="FindPrev" priority="0" />
+      <Item value="findTextBox1" priority="0" />
+      <Item value="matches" priority="1" />
+      <Item value="numMatches" priority="1" />
+      <Item value="findStatus" priority="2" />
+      <Item value="Visible" priority="1" />
+      <Item value="matchCase" priority="0" />
+      <Item value="findMethod" priority="1" />
+      <Item value="RichTextBoxFinds.MatchCase" priority="0" />
+      <Item value="wholeWord" priority="0" />
+      <Item value="RichTextBoxFinds.WholeWord" priority="0" />
+      <Item value="BackColor" priority="0" />
+      <Item value="Invalidate" priority="0" />
+      <Item value="RefreshMenuItem" priority="0" />
+      <Item value="ConstructChildren" priority="0" />
+      <Item value="refreshMenuItem" priority="0" />
+      <Item value="ConnectionState.Open" priority="0" />
+      <Item value="ConnectionState" priority="0" />
+      <Item value="Close" priority="0" />
+      <Item value="allPackageNames" priority="0" />
+      <Item value="queryBox" priority="1" />
+      <Item value="queryText" priority="2" />
+      <Item value="DBViewProvider" priority="1" />
+      <Item value="InitAutoCompletion" priority="0" />
+      <Item value="RetrieveVirtualItemEventHandler" priority="1" />
+      <Item value="ToolStripMenuItem" priority="3" />
+      <Item value="Name" priority="0" />
+      <Item value="ShowShortcutKeys" priority="0" />
+      <Item value="ToolTipText" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="connectionNode" priority="1" />
+      <Item value="QueryPageAddedEventArgs" priority="0" />
+      <Item value="QueryPageAdded" priority="0" />
+      <Item value="dbViewProvider1" priority="0" />
+      <Item value="ConstructQueryPage" priority="0" />
+      <Item value="AddQueryPage" priority="0" />
+      <Item value="Parent" priority="1" />
+      <Item value="Remove" priority="0" />
+      <Item value="ConnectionsNode" priority="0" />
+      <Item value="keyData" priority="0" />
+      <Item value="ConnectionNode" priority="2" />
+      <Item value="openTablePage" priority="2" />
+      <Item value="PaginatedDataGrid" priority="0" />
+      <Item value="Dock" priority="0" />
+      <Item value="DockStyle.Fill" priority="0" />
+      <Item value="dataGridView" priority="8" />
+      <Item value="dataGrid" priority="0" />
+      <Item value="DbViewProvider" priority="2" />
+      <Item value="DataGridViewDataErrorContexts.Commit" priority="0" />
+      <Item value="numRecords" priority="0" />
+      <Item value="queryDataGrid" priority="0" />
+      <Item value="countQuery" priority="2" />
+      <Item value="long" priority="1" />
+      <Item value="rowCountLabel" priority="0" />
+      <Item value="rowCount" priority="1" />
+      <Item value="decimal" priority="0" />
+      <Item value="Decimal" priority="0" />
+      <Item value="cdHostNameTextBox" priority="2" />
+      <Item value="cdPortTextBox" priority="2" />
+      <Item value="DATA_SOURCE" priority="0" />
+      <Item value="cdServiceNameTextBox" priority="2" />
+      <Item value="TextBox_TextChanged" priority="1" />
+      <Item value="HostName" priority="3" />
+      <Item value="PortNumber" priority="2" />
+      <Item value="ServiceName" priority="2" />
+      <Item value="DefaultValue" priority="0" />
+      <Item value="QueryExecuted" priority="0" />
+      <Item value="taleNames" priority="0" />
+      <Item value="pattern" priority="1" />
+      <Item value="Paste" priority="0" />
+      <Item value="DataFormats" priority="2" />
+      <Item value="cdAuthTypeCombo" priority="3" />
+      <Item value="AuthType" priority="1" />
+      <Item value="AuthType.Windows" priority="0" />
+      <Item value="SqlConnectionStringBuilder" priority="0" />
+      <Item value="InitialCatalog" priority="0" />
+      <Item value="IntegratedSecurity" priority="0" />
+      <Item value="UserID" priority="0" />
+      <Item value="status" priority="0" />
+      <Item value="SuspendLayout" priority="0" />
+      <Item value="ResumeLayout" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Click" priority="2" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Dialogs.ConnectDialog">
+      <Item value="BindingContext" priority="0" />
+      <Item value="DataBindings" priority="1" />
+      <Item value="ConnectionDetail" priority="0" />
+      <Item value="DialogResult" priority="2" />
+      <Item value="DbConnection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="DataBindings" priority="2" />
+      <Item value="KeyDown" priority="0" />
+      <Item value="KeyPress" priority="0" />
+      <Item value="Text" priority="3" />
+      <Item value="OnKeyDown" priority="0" />
+      <Item value="Enabled" priority="3" />
+      <Item value="TextChanged" priority="4" />
+      <Item value="ResetBindings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ControlBindingsCollection">
+      <Item value="Add" priority="2" />
+      <Item value="Clear" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Click" priority="4" />
+      <Item value="Enabled" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OracleClient.OracleConnectionStringBuilder">
+      <Item value="DataSource" priority="0" />
+      <Item value="UserID" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="ConnectionString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DTO.ConnectionDetail">
+      <Item value="UserName" priority="3" />
+      <Item value="PassWord" priority="3" />
+      <Item value="ServerName" priority="5" />
+      <Item value="DbType" priority="1" />
+      <Item value="DbViewDBType" priority="2" />
+      <Item value="ConnName" priority="5" />
+      <Item value="Database" priority="2" />
+      <Item value="DataSourceName" priority="2" />
+      <Item value="HostName" priority="1" />
+      <Item value="PortNumber" priority="1" />
+      <Item value="ServiceName" priority="0" />
+      <Item value="AuthType" priority="2" />
+      <Item value="InitialCatalog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OracleClient.OracleConnection">
+      <Item value="CreateCommand" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OracleClient.OracleCommand">
+      <Item value="CommandText" priority="1" />
+      <Item value="ExecuteReader" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OracleClient.OracleDataReader">
+      <Item value="Read" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeView">
+      <Item value="BeginUpdate" priority="4" />
+      <Item value="EndUpdate" priority="2" />
+      <Item value="Nodes" priority="8" />
+      <Item value="BeforeExpand" priority="0" />
+      <Item value="AfterSelect" priority="0" />
+      <Item value="ExpandAll" priority="0" />
+      <Item value="BeforeSelect" priority="0" />
+      <Item value="TopNode" priority="0" />
+      <Item value="SelectedNode" priority="1" />
+      <Item value="InvokeRequired" priority="0" />
+      <Item value="IsHandleCreated" priority="0" />
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeCollection">
+      <Item value="Clear" priority="6" />
+      <Item value="Add" priority="19" />
+      <Item value="GetHashCode" priority="0" />
+      <Item value="Count" priority="2" />
+      <Item value="IndexOf" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNode">
+      <Item value="Nodes" priority="23" />
+      <Item value="BeginEdit" priority="0" />
+      <Item value="Text" priority="11" />
+      <Item value="Tag" priority="16" />
+      <Item value="Expand" priority="4" />
+      <Item value="Parent" priority="23" />
+      <Item value="EnsureVisible" priority="4" />
+      <Item value="NodeFont" priority="2" />
+      <Item value="Bounds" priority="0" />
+      <Item value="BackColor" priority="3" />
+      <Item value="NextNode" priority="14" />
+      <Item value="PrevNode" priority="3" />
+      <Item value="ImageIndex" priority="0" />
+      <Item value="ContextMenuStrip" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeViewCancelEventArgs">
+      <Item value="Node" priority="13" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="4" />
+      <Item value="IsNullOrEmpty" priority="12" />
+      <Item value="Empty" priority="3" />
+      <Item value="Compare" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.DB.Provider.DbViewProviderFactory">
+      <Item value="RetrieveDbProvider" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbConnection">
+      <Item value="Close" priority="3" />
+      <Item value="Open" priority="2" />
+      <Item value="State" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Main.DBViewMainForm">
+      <Item value="Closed" priority="0" />
+      <Item value="dbViewDataGrid" priority="0" />
+      <Item value="tabControl1" priority="0" />
+      <Item value="dbViewTreeView" priority="1" />
+      <Item value="findPanel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.Provider.DbViewProvider">
+      <Item value="AllTablesQuery" priority="0" />
+      <Item value="AllColumnsQueryForGivenTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetNames" priority="0" />
+      <Item value="GetValues" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitContainer">
+      <Item value="Panel2" priority="1" />
+      <Item value="Panel1" priority="2" />
+      <Item value="SplitterMoved" priority="0" />
+      <Item value="Focused" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitterPanel">
+      <Item value="Controls" priority="1" />
+      <Item value="SuspendLayout" priority="0" />
+      <Item value="Focused" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add" priority="7" />
+      <Item value="Contains" priority="0" />
+      <Item value="Remove" priority="1" />
+      <Item value="ContainsKey" priority="0" />
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeViewEventArgs">
+      <Item value="Node" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Controls" priority="2" />
+      <Item value="SuspendLayout" priority="0" />
+      <Item value="ResumeLayout" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Hide" priority="2" />
+      <Item value="Size" priority="2" />
+      <Item value="Show" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Focus" priority="0" />
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.DTO.DbViewDBType">
+      <Item value="Oracle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DTO.DbViewDBType">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Show" priority="0" />
+      <Item value="Parent" priority="1" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.DB.DbUtil">
+      <Item value="SupportedDBList" priority="0" />
+      <Item value="RetreiveAllTables" priority="0" />
+      <Item value="ExecuteQuery" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="2" />
+      <Item value="ForEach" priority="4" />
+      <Item value="ToArray" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.Provider.IDbViewProvider">
+      <Item value="RetreiveAllTableNames" priority="0" />
+      <Item value="RetreiveAllColumnNamesForGivenTable" priority="1" />
+      <Item value="Connection" priority="0" />
+      <Item value="AllTableNames" priority="2" />
+      <Item value="Close" priority="0" />
+      <Item value="RetreiveAllKeyColumnsForGivenTable" priority="0" />
+      <Item value="RetreiveAllConstraintsForGivenTable" priority="0" />
+      <Item value="RetreiveAllTriggersForGivenTable" priority="0" />
+      <Item value="RetreiveAllProcNamesForGivenPkg" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyCode" priority="28" />
+      <Item value="Handled" priority="3" />
+      <Item value="Control" priority="3" />
+      <Item value="SuppressKeyPress" priority="4" />
+      <Item value="Shift" priority="2" />
+      <Item value="KeyValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.QueryBoxControl">
+      <Item value="Lines" priority="0" />
+      <Item value="SelectedText" priority="0" />
+      <Item value="ExecuteQuery" priority="1" />
+      <Item value="WordWrap" priority="0" />
+      <Item value="InitAutoCompletion" priority="2" />
+      <Item value="Controls" priority="1" />
+      <Item value="autoCompleteListBox" priority="0" />
+      <Item value="tableNames" priority="3" />
+      <Item value="Text" priority="5" />
+      <Item value="Clear" priority="0" />
+      <Item value="SelectionStart" priority="1" />
+      <Item value="GetIndexOfSpaceBackwards" priority="0" />
+      <Item value="AutoCompleteDropDown" priority="0" />
+      <Item value="autoCompleteDropDown_WordSelected" priority="0" />
+      <Item value="autoCompleteDropDown" priority="0" />
+      <Item value="findPanelLayout" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.QueryEventArgs">
+      <Item value="Query" priority="0" />
+      <Item value="DBViewDataTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Load" priority="0" />
+      <Item value="DataSet" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="3" />
+      <Item value="BindingContextChanged" priority="0" />
+      <Item value="EditMode" priority="0" />
+      <Item value="AllowUserToAddRows" priority="0" />
+      <Item value="AllowUserToDeleteRows" priority="0" />
+      <Item value="AllowUserToResizeRows" priority="0" />
+      <Item value="CellValidating" priority="0" />
+      <Item value="CellEndEdit" priority="1" />
+      <Item value="CommitEdit" priority="1" />
+      <Item value="CurrentCellDirtyStateChanged" priority="0" />
+      <Item value="IsCurrentCellDirty" priority="0" />
+      <Item value="DataError" priority="0" />
+      <Item value="VirtualMode" priority="0" />
+      <Item value="CellValuePushed" priority="0" />
+      <Item value="RowCount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.AutoCompleteStringCollection">
+      <Item value="AddRange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.AutoCompleteDropDown">
+      <Item value="InitAutoCompletion" priority="1" />
+      <Item value="Visible" priority="0" />
+      <Item value="AutoCompleteMode" priority="0" />
+      <Item value="SelectionMode" priority="0" />
+      <Item value="Name" priority="1" />
+      <Item value="ShowDropDown" priority="0" />
+      <Item value="HideDropDown" priority="1" />
+      <Item value="Hide" priority="1" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="WordSelected" priority="1" />
+      <Item value="WordReplaced" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.AutoCompleteSource">
+      <Item value="ListItems" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ComboBoxStyle">
+      <Item value="DropDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="DataSource" priority="0" />
+      <Item value="BeginUpdate" priority="0" />
+      <Item value="EndUpdate" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Font" priority="0" />
+      <Item value="Focus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToUpper" priority="5" />
+      <Item value="LastIndexOf" priority="2" />
+      <Item value="EndsWith" priority="0" />
+      <Item value="Remove" priority="6" />
+      <Item value="Length" priority="13" />
+      <Item value="Insert" priority="1" />
+      <Item value="StartsWith" priority="1" />
+      <Item value="Contains" priority="4" />
+      <Item value="Equals" priority="0" />
+      <Item value="IndexOf" priority="0" />
+      <Item value="Trim" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Add" priority="1" />
+      <Item value="Count" priority="1" />
+      <Item value="CopyTo" priority="0" />
+      <Item value="RemoveWhere" priority="1" />
+      <Item value="Aggregate" priority="1" />
+      <Item value="TakeWhile" priority="0" />
+      <Item value="Select" priority="0" />
+      <Item value="Where" priority="1" />
+      <Item value="ToArray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Space" priority="0" />
+      <Item value="Up" priority="1" />
+      <Item value="Down" priority="1" />
+      <Item value="Enter" priority="5" />
+      <Item value="F" priority="2" />
+      <Item value="Escape" priority="2" />
+      <Item value="F3" priority="2" />
+      <Item value="F9" priority="0" />
+      <Item value="V" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="Y" priority="0" />
+      <Item value="X" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Max" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Size" priority="1" />
+      <Item value="SizeInPoints" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.Main.NodeType">
+      <Item value="ROOT_NODE" priority="0" />
+      <Item value="DB_NODE" priority="0" />
+      <Item value="TABLE_NODE" priority="1" />
+      <Item value="COLUMN_NODE" priority="0" />
+      <Item value="TABLES_NODE" priority="0" />
+      <Item value="PKGS_NODE" priority="0" />
+      <Item value="PKG_NODE" priority="2" />
+      <Item value="PROC_NODE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="Controls" priority="2" />
+      <Item value="SelectTab" priority="1" />
+      <Item value="SelectedTab" priority="0" />
+      <Item value="DeselectTab" priority="0" />
+      <Item value="TabPages" priority="1" />
+      <Item value="HotTrack" priority="0" />
+      <Item value="Appearance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.QueryTabPage">
+      <Item value="querySplitContainer" priority="0" />
+      <Item value="queryPage" priority="0" />
+      <Item value="queryDataGrid" priority="1" />
+      <Item value="InitAutoCompletion" priority="0" />
+      <Item value="queryPageSplitContainer" priority="1" />
+      <Item value="queryStatusLabel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.WordSelectedEventArgs">
+      <Item value="SelectedWord" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append" priority="4" />
+      <Item value="Equals" priority="0" />
+      <Item value="ToString" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.DBTreeView">
+      <Item value="HideSelection" priority="0" />
+      <Item value="HotTracking" priority="0" />
+      <Item value="ShowLines" priority="0" />
+      <Item value="ShowPlusMinus" priority="0" />
+      <Item value="ShowRootLines" priority="0" />
+      <Item value="Focused" priority="1" />
+      <Item value="Focus" priority="0" />
+      <Item value="ExpandAll" priority="0" />
+      <Item value="Nodes" priority="0" />
+      <Item value="TopNode" priority="1" />
+      <Item value="rootNode" priority="0" />
+      <Item value="SelectedNode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.Controls.NodeType">
+      <Item value="VIEW_NODE" priority="3" />
+      <Item value="TABLE_COLUMNS_NODE" priority="0" />
+      <Item value="TABLE_KEYS_NODE" priority="1" />
+      <Item value="TABLE_CONSTRAINTS_NODE" priority="1" />
+      <Item value="TABLE_TRIGGERS_NODE" priority="0" />
+      <Item value="TABLE_INDEXES_NODE" priority="0" />
+      <Item value="CONSTRAINT_NODE" priority="1" />
+      <Item value="KEY_COLUMN_NODE" priority="1" />
+      <Item value="PROC_NODE" priority="0" />
+      <Item value="TRIGGER_NODE" priority="0" />
+      <Item value="INDEX_NODE" priority="0" />
+      <Item value="TABLES_NODE" priority="0" />
+      <Item value="PKGS_NODE" priority="0" />
+      <Item value="VIEWS_NODE" priority="0" />
+      <Item value="DB_NODE" priority="0" />
+      <Item value="TABLE_NODE" priority="2" />
+      <Item value="PKG_NODE" priority="3" />
+      <Item value="TABLES" priority="0" />
+      <Item value="TABLE_COLUMNS" priority="0" />
+      <Item value="TABLE_KEYS" priority="0" />
+      <Item value="TABLE_CONSTRAINTS" priority="0" />
+      <Item value="TABLE_TRIGGERS" priority="0" />
+      <Item value="TABLE_INDEXES" priority="0" />
+      <Item value="PKGS" priority="0" />
+      <Item value="PKG" priority="0" />
+      <Item value="VIEWS" priority="0" />
+      <Item value="VIEW" priority="0" />
+      <Item value="COLUMN" priority="1" />
+      <Item value="CONSTRAINT" priority="0" />
+      <Item value="TRIGGER" priority="0" />
+      <Item value="INDEX" priority="0" />
+      <Item value="PROC" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.SearchPanel">
+      <Item value="Location" priority="0" />
+      <Item value="findBox" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.FindTextBox">
+      <Item value="FindClose" priority="0" />
+      <Item value="FindNext" priority="4" />
+      <Item value="Focus" priority="3" />
+      <Item value="Size" priority="0" />
+      <Item value="FindPrev" priority="0" />
+      <Item value="SelectAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.FindPanel">
+      <Item value="ShowSearch" priority="0" />
+      <Item value="Hide" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="FindBox" priority="0" />
+      <Item value="DBTreeView" priority="0" />
+      <Item value="TopNode" priority="0" />
+      <Item value="matchCase" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Width" priority="0" />
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.FindEventArgs">
+      <Item value="CurrentString" priority="5" />
+      <Item value="CurrentChar" priority="0" />
+      <Item value="NumOfMatches" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.AutoCompleteSource">
+      <Item value="HistoryList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Yellow" priority="0" />
+      <Item value="White" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsWhiteSpace" priority="1" />
+      <Item value="IsSurrogate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That" priority="0" />
+      <Item value="AreEqual" priority="2" />
+      <Item value="IsFalse" priority="6" />
+      <Item value="IsTrue" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Dialogs.TreeViewFindDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FindDetails" priority="1" />
+      <Item value="findTextBox" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Owner" priority="0" />
+      <Item value="findNextButton" priority="0" />
+      <Item value="tablesCheckBox" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="6" />
+      <Item value="CheckedChanged" priority="0" />
+      <Item value="DataBindings" priority="0" />
+      <Item value="CheckState" priority="3" />
+      <Item value="ResetBindings" priority="4" />
+      <Item value="Font" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DTO.FindDetails">
+      <Item value="FindTables" priority="10" />
+      <Item value="MatchWholeString" priority="1" />
+      <Item value="FindStr" priority="1" />
+      <Item value="FindPkgs" priority="7" />
+      <Item value="FindViews" priority="8" />
+      <Item value="MatchCase" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Reverse" priority="1" />
+      <Item value="Add" priority="0" />
+      <Item value="AddRange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Binding">
+      <Item value="ControlUpdateMode" priority="0" />
+      <Item value="DataSourceUpdateMode" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Trees.ISearchableTreeNode">
+      <Item value="DoesNodeMatch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.SearchableTreeNode">
+      <Item value="TreeView" priority="0" />
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.DatabasesNode">
+      <Item value="FindNext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.DatabaseNode">
+      <Item value="Nodes" priority="2" />
+      <Item value="FindNext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.ISearchableTreeNode">
+      <Item value="FindNext" priority="2" />
+      <Item value="DoesNodeMatch" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.DataNode">
+      <Item value="NextNode" priority="3" />
+      <Item value="Tag" priority="0" />
+      <Item value="IsVisible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.DatabaseContentNode">
+      <Item value="Nodes" priority="0" />
+      <Item value="FindNext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.TableDetailNode">
+      <Item value="DoesNodeMatch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Trees.DataDetailNode">
+      <Item value="Nodes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.IDBNode">
+      <Item value="NodeExpanded" priority="0" />
+      <Item value="FindNext" priority="2" />
+      <Item value="FindPrevious" priority="0" />
+      <Item value="ProcessExpand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.DBTreeView1">
+      <Item value="FindNext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.TableNode">
+      <Item value="PrevNode" priority="1" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.PackageNode">
+      <Item value="PrevNode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.ViewNode">
+      <Item value="PrevNode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.DB.DBUtil">
+      <Item value="TestConnection" priority="0" />
+      <Item value="ExecuteCountQuery" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.StatusStrip">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.Properties.Resources">
+      <Item value="ajax_loader" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ImageList">
+      <Item value="Images" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ImageList+ImageCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="DoWork" priority="1" />
+      <Item value="RunWorkerAsync" priority="2" />
+      <Item value="RunWorkerCompleted" priority="1" />
+      <Item value="WorkerSupportsCancellation" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.DoWorkEventArgs">
+      <Item value="Argument" priority="2" />
+      <Item value="Result" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.SingleArgumentQuery">
+      <Item value="QueryParam" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.RunWorkerCompletedEventArgs">
+      <Item value="Result" priority="4" />
+      <Item value="Error" priority="6" />
+      <Item value="UserState" priority="0" />
+      <Item value="Cancelled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.Provider.IDBViewProvider">
+      <Item value="RetreiveAllColumnNamesForGivenTable" priority="0" />
+      <Item value="DbConnection" priority="1" />
+      <Item value="ConnectionName" priority="2" />
+      <Item value="ConnectionDetail" priority="3" />
+      <Item value="Close" priority="1" />
+      <Item value="AllTableNames" priority="2" />
+      <Item value="ExecuteQuery" priority="2" />
+      <Item value="ExecuteCountQuery" priority="0" />
+      <Item value="RetreiveAllTableNamesLike" priority="0" />
+      <Item value="RetreivePackageBody" priority="1" />
+      <Item value="RetreiveProcedureBodyInPackage" priority="0" />
+      <Item value="RetreiveViewBody" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.ResultsDTO">
+      <Item value="DbNode" priority="0" />
+      <Item value="ChildNodeNames" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.AbstractDBNode">
+      <Item value="FinishExpand" priority="0" />
+      <Item value="TreeView" priority="0" />
+      <Item value="UpdateContextMenu" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Dialogs.DBDialogs.IDBDialog">
+      <Item value="DataAvailable" priority="0" />
+      <Item value="DataUnAvailable" priority="0" />
+      <Item value="ConnectionDetail" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.Provider.MySqlProvider">
+      <Item value="OpenConnection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.DTO.DBViewDBType">
+      <Item value="MySql" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeMouseClickEventArgs">
+      <Item value="Node" priority="0" />
+      <Item value="Button" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ContextMenuStrip">
+      <Item value="Show" priority="0" />
+      <Item value="Opening" priority="0" />
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="OpenExeConfiguration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.Configuration">
+      <Item value="Sections" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConfigurationSectionCollection">
+      <Item value="Keys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConfigurationSection">
+      <Item value="SectionInformation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.ConnectionSection">
+      <Item value="Connections" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.ConnectionCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Config.ConnectionElement">
+      <Item value="FromConnectionDetail" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Config.ConnectionSection">
+      <Item value="Connections" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Config.ConnectionCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="IsMatch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Index" priority="1" />
+      <Item value="Success" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debugger">
+      <Item value="Break" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.ConnectionsNode">
+      <Item value="Expand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="Button" priority="1" />
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.DBTreeView">
+      <Item value="SelectedNode" priority="0" />
+      <Item value="QueryTabs" priority="0" />
+      <Item value="ShowQueryPage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.CancelEventArgs">
+      <Item value="Cancel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItemCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.TabAppearance">
+      <Item value="FlatButtons" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.DB.DBViewDataTable">
+      <Item value="DataTable" priority="7" />
+      <Item value="RecordsAffected" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbDataReader">
+      <Item value="RecordsAffected" priority="0" />
+      <Item value="[]" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="2" />
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TableLayoutPanel">
+      <Item value="Controls" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TableLayoutControlCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.RichTextBoxFinds">
+      <Item value="None" priority="4" />
+      <Item value="NoHighlight" priority="2" />
+      <Item value="Reverse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.ConnectionState">
+      <Item value="Closed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.QueryPageAddedEventArgs">
+      <Item value="QueryTabPage" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DBView.Controls.Tree.Node.ConnectionNode">
+      <Item value="QueryPageAdded" priority="0" />
+      <Item value="QueryPageClosed" priority="0" />
+      <Item value="QueryTabs" priority="0" />
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl+TabPageCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewDataErrorEventArgs">
+      <Item value="Exception" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="ToInt64" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataFormats">
+      <Item value="GetFormat" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="0" />
+      <Item value="SelectedIndexChanged" priority="1" />
+      <Item value="SelectedIndex" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBView.Controls.ContextMenuItem">
+      <Item value="ViewProcedure" priority="0" />
+      <Item value="OpenView" priority="0" />
+      <Item value="OpenPackageBody" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

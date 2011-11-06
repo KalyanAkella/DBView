@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E86BE00C-12C7-4265-B97B-1A0FE6DD9822}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DBView</RootNamespace>
+    <AssemblyName>DBView</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\ConnectionCollection.cs" />
+    <Compile Include="Config\ConnectionElement.cs" />
+    <Compile Include="Config\ConnectionSection.cs" />
+    <Compile Include="Controls\AutoCompleteDropDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\AutoCompleteDropDown.Designer.cs">
+      <DependentUpon>AutoCompleteDropDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ContextMenuItem.cs" />
+    <Compile Include="Controls\FindPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\FindPanel.Designer.cs">
+      <DependentUpon>FindPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FindTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\FindTextBox.Designer.cs">
+      <DependentUpon>FindTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\IMacroRepository.cs" />
+    <Compile Include="Controls\PaginatedDataGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PaginatedDataGrid.Designer.cs">
+      <DependentUpon>PaginatedDataGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\QueryBoxControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\QueryBoxControl.Designer.cs">
+      <DependentUpon>QueryBoxControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\QueryTabPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\QueryTabPage.Designer.cs">
+      <DependentUpon>QueryTabPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Tree\DBTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Tree\DBTreeView.Designer.cs">
+      <DependentUpon>DBTreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Tree\NodeType.cs" />
+    <Compile Include="Controls\Tree\Node\AbstractDBNode.cs" />
+    <Compile Include="Controls\Tree\Node\ColumnNode.cs" />
+    <Compile Include="Controls\Tree\Node\ColumnsNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\ConstraintNode.cs" />
+    <Compile Include="Controls\Tree\Node\ConstraintsNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\ConnectionNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\ConnectionsNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\IDBNode.cs" />
+    <Compile Include="Controls\Tree\Node\IndexesNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\IndexNode.cs" />
+    <Compile Include="Controls\Tree\Node\KeyNode.cs" />
+    <Compile Include="Controls\Tree\Node\KeysNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\NullMacroRepository.cs" />
+    <Compile Include="Controls\Tree\Node\PackageNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\PackagesNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\ProcedureNode.cs" />
+    <Compile Include="Controls\Tree\Node\TableNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\TablesNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\TriggerNode.cs" />
+    <Compile Include="Controls\Tree\Node\TriggersNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\ViewNode.cs">
+    </Compile>
+    <Compile Include="Controls\Tree\Node\ViewsNode.cs">
+    </Compile>
+    <Compile Include="DB\DBViewDataTable.cs" />
+    <Compile Include="DB\Provider\GenericDBProvider.cs" />
+    <Compile Include="DB\Provider\IDBViewProvider.cs" />
+    <Compile Include="DB\DBUtil.cs" />
+    <Compile Include="DB\Provider\DBViewProviderFactory.cs" />
+    <Compile Include="DB\Provider\MySqlProvider.cs" />
+    <Compile Include="DB\Provider\OracleProvider.cs" />
+    <Compile Include="DB\Provider\SqlServerProvider.cs" />
+    <Compile Include="Dialogs\ConnectDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\ConnectDialog.Designer.cs">
+      <DependentUpon>ConnectDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\SqlServerDBDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\SqlServerDBDialog.Designer.cs">
+      <DependentUpon>SqlServerDBDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\DBDialogFactory.cs" />
+    <Compile Include="Dialogs\DBDialogs\IDBDialog.cs">
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\MySQLDBDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\MySQLDBDialog.Designer.cs">
+      <DependentUpon>MySQLDBDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\OracleDBDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DBDialogs\OracleDBDialog.Designer.cs">
+      <DependentUpon>OracleDBDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\TreeViewFindDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TreeViewFindDialog.Designer.cs">
+      <DependentUpon>TreeViewFindDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\ConnectionDetail.cs" />
+    <Compile Include="DTO\FindDetails.cs" />
+    <Compile Include="DTO\ResultsDTO.cs" />
+    <Compile Include="Main\DBViewMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\DBViewMainForm.Designer.cs">
+      <DependentUpon>DBViewMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\StaticMacroRepository.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\FindPanel.resx">
+      <DependentUpon>FindPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\FindTextBox.resx">
+      <DependentUpon>FindTextBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PaginatedDataGrid.resx">
+      <DependentUpon>PaginatedDataGrid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\QueryBoxControl.resx">
+      <DependentUpon>QueryBoxControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\QueryTabPage.resx">
+      <DependentUpon>QueryTabPage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Tree\DBTreeView.resx">
+      <DependentUpon>DBTreeView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\ConnectDialog.resx">
+      <DependentUpon>ConnectDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DBDialogs\SqlServerDBDialog.resx">
+      <DependentUpon>SqlServerDBDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DBDialogs\MySQLDBDialog.resx">
+      <DependentUpon>MySQLDBDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DBDialogs\OracleDBDialog.resx">
+      <DependentUpon>OracleDBDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\TreeViewFindDialog.resx">
+      <DependentUpon>TreeViewFindDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\DBViewMainForm.resx">
+      <DependentUpon>DBViewMainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\DBView.DTO.ConnectionDetail.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
