@@ -1,9 +1,0 @@
-C:\Users\kakella\Projects\DBView\IntegrationTest\bin\Release\IntegrationTest.dll
-C:\Users\kakella\Projects\DBView\IntegrationTest\bin\Release\IntegrationTest.pdb
-C:\Users\kakella\Projects\DBView\IntegrationTest\bin\Release\DBView.exe
-C:\Users\kakella\Projects\DBView\IntegrationTest\bin\Release\MySql.Data.dll
-C:\Users\kakella\Projects\DBView\IntegrationTest\bin\Release\nunit.framework.dll
-C:\Users\kakella\Projects\DBView\IntegrationTest\bin\Release\DBView.pdb
-C:\Users\kakella\Projects\DBView\IntegrationTest\obj\Release\ResolveAssemblyReference.cache
-C:\Users\kakella\Projects\DBView\IntegrationTest\obj\Release\IntegrationTest.dll
-C:\Users\kakella\Projects\DBView\IntegrationTest\obj\Release\IntegrationTest.pdb
